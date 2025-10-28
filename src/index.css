@@ -38,7 +38,3 @@ body {
     src: url("/NotoSans.ttf");
 }
 
-@font-face {
-    font-family: "chn";
-    src: url("/Chn.ttf");
-}

@@ -134,7 +134,7 @@ function App() {
                   <div className="max-w-md">
                       <h1 className="mb-5 text-5xl font-bold font-[comfortaa]">Inteyvat</h1>
                       <p className="mb-5">
-                          看不出来有什么用，但是你知道整活这块没输过的含金量吗？
+                          <i>thgin fo tsekrad eht ni thgirb enihs srats eht yam</i>
                       </p>
                   </div>
               </div>

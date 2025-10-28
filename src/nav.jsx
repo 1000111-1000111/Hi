@@ -50,13 +50,13 @@ function Nav(){
                     <li>
                         <NavLink to={"/about"} className="btn bg-transparent border-none shadow-none w-auto px-3">
                             <span
-                                className={"text-lg bg-conic-181 from-[var(--color-tianyi)] dark:from-[var(--color-hua)] to-[var(--color-stardust)] bg-clip-text text-transparent font-[chn]"}>关于</span>
+                                className={"text-lg bg-conic-181 from-[var(--color-tianyi)] dark:from-[var(--color-hua)] to-[var(--color-stardust)] bg-clip-text text-transparent font-[comfortaa]"}>About</span>
                         </NavLink>
                     </li>
                     <li>
                         <NavLink to={"/comp"} className="btn bg-transparent border-none shadow-none w-auto px-3">
                             <span
-                                className={"text-lg bg-conic-181 from-[var(--color-tianyi)] dark:from-[var(--color-hua)] to-[var(--color-stardust)] bg-clip-text text-transparent font-[chn]"}>成分</span>
+                                className={"text-lg bg-conic-181 from-[var(--color-tianyi)] dark:from-[var(--color-hua)] to-[var(--color-stardust)] bg-clip-text text-transparent font-[comfortaa]"}>Composition</span>
                         </NavLink>
                     </li>
                     <li>
@@ -79,13 +79,13 @@ function Nav(){
                     <li>
                         <NavLink to={"/about"} className="btn bg-transparent border-none shadow-none w-30 px-3 backdrop-blur-sm">
                             <span
-                                className={"text-lg bg-conic-181 from-[var(--color-tianyi)] dark:from-[var(--color-hua)] to-[var(--color-stardust)] bg-clip-text text-transparent font-[chn]"}>关于</span>
+                                className={"text-lg bg-conic-181 from-[var(--color-tianyi)] dark:from-[var(--color-hua)] to-[var(--color-stardust)] bg-clip-text text-transparent font-[comfortaa]"}>About</span>
                         </NavLink>
                     </li>
                     <li>
                         <NavLink to={"/comp"} className="btn bg-transparent border-none shadow-none w-30 px-3 backdrop-blur-sm">
                             <span
-                                className={"text-lg bg-conic-181 from-[var(--color-tianyi)] dark:from-[var(--color-hua)] to-[var(--color-stardust)] bg-clip-text text-transparent font-[chn]"}>成分</span>
+                                className={"text-lg bg-conic-181 from-[var(--color-tianyi)] dark:from-[var(--color-hua)] to-[var(--color-stardust)] bg-clip-text text-transparent font-[comfortaa]"}>Composition</span>
                         </NavLink>
                     </li>
                     <li>

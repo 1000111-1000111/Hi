@@ -1,0 +1,44 @@
+@import "tailwindcss";
+@plugin "daisyui";
+
+:root{
+    --color-tianyi:#66ccff;
+    --color-ling:#ee0000;
+    --color-longya:#006666;
+    --color-stardust:#9999ff;
+    --color-qingxian:#ffff00;
+    --color-he:#00ffcc;
+    --color-hua:#ee82ee;
+
+    --animate-spin:spin 1s linear no-repeat;
+    --animate-autospin:spin 5s linear infinite;
+}
+
+@keyframes spin {
+    from { transform: rotate(0deg); }
+    to { transform: rotate(360deg); }
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+@font-face {
+  font-family: "comfortaa";
+  src: url("/Comfortaa.ttf");
+}
+
+@font-face {
+    font-family: "noto-sans";
+    src: url("/NotoSans.ttf");
+}
+
+@font-face {
+    font-family: "chn";
+    src: url("/Chn.ttf");
+}

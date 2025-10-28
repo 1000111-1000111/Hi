@@ -2673,15 +2673,15 @@ body {
 }
 @font-face {
   font-family: "comfortaa";
-  src: url("/Inteyvat/Comfortaa.ttf");
+  src: url("/Comfortaa.ttf");
 }
 @font-face {
   font-family: "noto-sans";
-  src: url("/Inteyvat/NotoSans.ttf");
+  src: url("/NotoSans.ttf");
 }
 @font-face {
   font-family: "chn";
-  src: url("/Inteyvat/Chn.ttf");
+  src: url("/Chn.ttf");
 }
 @layer base {
   :where(:root),:root:has(input.theme-controller[value=light]:checked),[data-theme=light] {
